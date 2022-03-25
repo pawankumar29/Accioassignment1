@@ -1,11 +1,19 @@
-body{
-    background-color: aqua;
+table{
+    text-align: center;
+    font-weight: bold;
+    height: 410px;
+    width: 400px;
+    border: 1px solid red;
+    background-color: rgb(48 205 176);
+    margin: auto;
+    margin: auto;
 }
 
-h1{
-    background-color: blanchedalmond;
-    color:red;
+input{
+    background-color: aqua;
+    color: brown;
+}
 
-    text-align: center;
-
+body{
+    background-color: burlywood;
 }
